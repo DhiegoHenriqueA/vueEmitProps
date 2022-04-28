@@ -39,7 +39,7 @@ export default {
   background-color: #e1e1e1;
   border-radius: 8px;
   min-height: 300px;
-  min-width: 400px;
+  min-width: 450px;
   max-height: 90vh;
   overflow-y: scroll;
   align-items: center;
