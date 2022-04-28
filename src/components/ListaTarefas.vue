@@ -34,7 +34,7 @@ export default {
 </template>
 <style>
 .listaKanban {
-  padding: 2px 15px;
+  padding: 2px 10px;
   background-color: #e1e1e1;
   border-radius: 8px;
   min-height: 300px;
@@ -47,5 +47,18 @@ export default {
   background-color: darkblue;
   color: white;
   text-align: center;
+}
+
+li {
+  border-radius: 5px;
+  background-color: white;
+  min-height: 100px;
+  width: 92%;
+  margin: 3%;
+  list-style: none;
+  padding: 5px;
+}
+ul {
+  padding: 0;
 }
 </style>
