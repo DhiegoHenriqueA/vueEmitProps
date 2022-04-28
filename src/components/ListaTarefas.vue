@@ -35,11 +35,12 @@ export default {
 <style>
 .listaKanban {
   padding: 2px 15px;
-  background-color: beige;
+  background-color: #e1e1e1;
   border-radius: 8px;
   min-height: 300px;
-  min-width: 300px;
+  min-width: 400px;
   align-items: center;
+  margin: 10px;
 }
 
 .titulo {

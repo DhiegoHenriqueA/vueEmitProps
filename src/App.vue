@@ -7,7 +7,7 @@ export default {
       kanban: {
         backlog: {
           name: "backlog",
-          titulo: "tarefas backlog",
+          titulo: "Tarefas backlog",
           itens: [
             { id: 1, titulo: "item1", descritivo: "item 1 descritivo" },
             { id: 2, titulo: "item2", descritivo: "item 2 descritivo" },
@@ -19,7 +19,7 @@ export default {
         },
         todo: {
           name: "todo",
-          titulo: "tarefas todo",
+          titulo: "Tarefas todo",
           itens: [
             { id: 3, titulo: "item3", descritivo: "item 3 descritivo" },
             { id: 4, titulo: "item4", descritivo: "item 4 descritivo" },
@@ -29,7 +29,7 @@ export default {
         },
         done: {
           name: "done",
-          titulo: "tarefas done",
+          titulo: "Tarefas done",
           itens: [
             { id: 5, titulo: "item5", descritivo: "item 5 descritivo" },
             { id: 6, titulo: "item6", descritivo: "item 6 descritivo" },
